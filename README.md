@@ -10,7 +10,7 @@
 -The .js file fetches about 25 memes per session and just cycles through it using the button 
 
 ## How to run
--Just open index.html in a browser or visit the live site.
+-Just open index.html in a browser or visit the live site; https://the-degenerate-otaku.github.io/Daily-Dose-Of-Memes/
 
 
 ## Tech Stack
