@@ -6,8 +6,8 @@
 
 ## How does it work?
 
--Uses classic Html for the base , css for the graphics andd JS for the workings
--The .js file fetches about 25 memes per session and just cycles through it usinng the button 
+-Uses classic Html for the base , css for the graphics and JS for the workings
+-The .js file fetches about 25 memes per session and just cycles through it using the button 
 
 ## How to run
 -Just open index.html in a browser or visit the live site.
@@ -19,4 +19,4 @@
 - JavaScript (Vanilla)
 
 ## Built for
-Hack Club Arcade
+-Hack Club Arcade
