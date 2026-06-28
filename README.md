@@ -6,7 +6,7 @@
 
 ## How does it work?
 
--Uses classic Html for the base , css for the graphics and JS for the workings
+-Uses classic html for the base , CSS for the graphics and JS for the workings
 -The .js file fetches about 25 memes per session and just cycles through it using the button 
 
 ## How to run
