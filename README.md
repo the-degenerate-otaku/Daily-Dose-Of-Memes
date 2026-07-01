@@ -19,4 +19,4 @@
 - JavaScript (Vanilla)
 
 ## Built for
--Hack Club Arcade
+- Stardance - Hackclub
